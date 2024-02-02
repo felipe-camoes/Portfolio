@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro&family=League+Spartan:wght@100&display=swap');
+:root {
+    --primary: #6c707e;
+    --secondary: #B4B4B3;
+    --ternary: #E55604;
+    --bg-page: #202020;
+    --bg-element: #2d2d2d;
+    --font: #F5F5F5;
+    --scn-font: #E9694F;
+    font-family: 'League Spartan', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: var(--font);
+    background-color: var(--bg-page);
+}
+

@@ -1,0 +1,17 @@
+.footer {
+   height: 50px;
+    background-color: var(--scn-font);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: auto;
+}
+
+@media screen and (max-width: 914px) {
+  .footer div{
+   height: 50px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+  }
+}

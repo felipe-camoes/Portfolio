@@ -1,0 +1,11 @@
+#root {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+@media screen and (max-width: 1029px) {
+    #root {
+        font-size: 15px;
+    }
+}
